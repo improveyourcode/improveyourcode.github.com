@@ -3,7 +3,7 @@ layout: page
 title: Improve Your Code
 <!-- tagline: Supporting tagline --> 
 ---
-{% include JB/setup %}
+<!-- {% include JB/setup %} -->
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
